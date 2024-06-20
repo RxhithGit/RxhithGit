@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./LINKEDIN BG With badge.png)
 <h1 align="center">Hi 👋, I'm Rohith Kumar</h1>
 <h3 align="center">A passionate UI/UX Designer, Frontend Developer from Coimbatore, India</h3>
 <br>
@@ -12,11 +12,6 @@
 - 💬 Ask me about **User Experience Design, User Interface Design**
 
 - 📫 How to reach me **rohithkumarg38@gamil.com**
-
-
-
-
-
 
 <br>
 
