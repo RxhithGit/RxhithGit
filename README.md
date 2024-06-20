@@ -2,7 +2,7 @@
 <h3 align="center">A passionate UI/UX Designer, Frontend Developer from Coimbatore, India</h3>
 <br>
 
-- 🔭 I’m currently working on **Homate UX Case Study**
+- 🔭 I’m currently working on **Homate App**
 
 - 🌱 I’m currently learning **JavaScript, React**
 
