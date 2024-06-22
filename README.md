@@ -2,19 +2,9 @@
 <h3 align="center">A passionate UI/UX Designer, Frontend Developer from Coimbatore, India</h3>
 <br>
 
-- 🔭 I’m currently working on **Homate App**
-
-- 🌱 I’m currently learning **JavaScript, React**
-
-- 📝 I regularly write articles on [https://medium.com/@rohithkumarg38](https://medium.com/@rohithkumarg38)
-
-- 💬 Ask me about **User Experience Design, User Interface Design**
-
-- 📫 How to reach me **rohithkumarg38@gamil.com**
-
-<br>
-
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
+    <h1 style="color: #333;">About Me 👨‍💻</h1>
+    <p>Hello! I'm <strong>Rohith KUmar G</strong>, a dedicated and passionate UI/UX Designer from Coimbatore, India. Currently, I'm pursuing my B.E. in Computer Science at <strong>DR.N.G.P. Institute of Technology</strong>, with a CGPA of 7.62. My journey into the world of technology started early and has been enriched by my academic endeavors and hands-on experiences in the field of User Experience.</p>
     
   <h2 style="color: #333;">🎓 Education</h2>
     <ul>
